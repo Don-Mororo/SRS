@@ -1,0 +1,124 @@
+.footer{
+ margin-top: 30px;
+    padding: 10px;
+    color: #fff;
+    background: #0c84e4;
+}
+.footer p{
+    margin-bottom: 0px ;
+}
+.navbar-size1 {
+    height: 80px;
+}
+.navbar-size2{
+    height: 30px;
+}
+navbar-size3{
+    height: 0px;
+}
+.a{
+    color: red;
+    text-align: center;
+}
+.slider1{
+    width: fit-content;
+    height: fit-content;
+    background-color: #ffed4a;
+}
+.describer1{
+    width: fit-content;
+    margin: 5px;
+    padding: 5px;
+    height: 10em;
+    background-color:darkslategray;
+    text-align: center;
+    color: #ff110e;
+}
+.label{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: medium;
+    color: black;
+}
+
+.register-box{
+    width: 50%;
+    margin: 0% auto;
+}
+.register-box-body {
+    background: #fff;
+    padding: 0px;
+    border-top: 0;
+    color: #666;
+}
+.register-box-msg {
+    margin: 0;
+    text-align: center;
+    padding: 0 20px 20px 20px;
+}
+.class-view-head{
+    width: auto;
+    height: fit-content;
+    border: solid #ed969e;
+    margin: 2mm;
+    padding: 4px;
+    background-color:#0c5460;
+    color: black;
+}
+.class-view-identifier{
+    width: 25%;
+    height: 50px;
+    border: #494f54;
+    margin: 2mm;
+    padding: 4px;
+   /* align-self: left;*/
+    float: left;
+    color: black;
+    background-color:#e9aa0b;
+}
+.class-view-students{
+    width:fit-content ;
+    height: fit-content;
+    border: #494f54;
+    margin: 2mm;
+    padding: 4px;
+    float: right;
+    color: black;
+    /*background-color:#e9aa0b;*/
+}
+.class-view-subjects{
+    width:fit-content ;
+    height: fit-content;
+    border: #494f54;
+    margin: 2mm;
+    padding: 4px;
+    /* align-self: left;*/
+    float: left;
+    color: black;
+    background-color:#cbd3e9;
+}
+.left-side{
+    width: 20%;
+    margin: 2mm;
+    padding: 4px;
+    height: fit-content;
+    float: left;
+    color: black;
+   /* background-color: #ed969e;*/
+}
+.right-side{
+    width: 18%;
+    height: fit-content;
+    float: right;
+    background-color: #80bdff;
+}
+.class-middle{
+    font-size: medium;
+    font-style: normal;
+    color: black;
+}
+.class-notifier{
+    float: left;
+    width: 60%;
+    height: fit-content;
+    background-color: #8fd19e;
+}
